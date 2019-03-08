@@ -39,3 +39,5 @@ The **run()** method or **call()** method is executed, and the thread ends norma
 5.3 Call stop() method</br>
 Call the stop() method of the thread directly, but **this method has been discarded.** </br>
 
+The thread lifecycle state change diagram is as follows：
+![life](https://github.com/pzhx521/JAVA/blob/master/concurrent/thread-2-1.PNG)
